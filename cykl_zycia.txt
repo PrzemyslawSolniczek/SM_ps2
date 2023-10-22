@@ -1,0 +1,42 @@
+punnkt 8:
+
+Po pierwszym uruchomieniu aplikacji:
+	- onCreate
+	- onStart
+	- onResume
+
+Po cofnięciu:
+	- onPause
+	- onStop
+	- onDestroy
+
+Po ponownym uruchomieniu aplikacji (taka sama jak przy pierwszym uruchomieniu):
+	- onCreate
+	- onStart
+	- onResume
+
+Po wciśnięciu przycisku ekranu głównego Home:
+	- onPause
+	- onStop
+
+Po powrocie do aplikacji z listy ostatnio używanych aplikacji:
+	- onRestert
+	- onStart
+	- onResume
+
+Po obróceniu ekranu + wyświetla się pierwsze pytanie:
+	- onPause
+	- onStop
+	- onDestroy
+	- onCreate
+	- onStart
+	- onResume
+
+Po obróceniu ekranu + to samo pytanie:
+	- onPause
+	- onStop
+	- onSaveInstanceState
+	- onDestroy
+	- onCreate
+	- onStart
+	- onResume

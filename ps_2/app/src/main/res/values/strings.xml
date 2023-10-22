@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="button_prompt">Podpowiedź</string>
+
+
+    <string name="q_1">C# jest lepszy od Javy?</string>
+    <string name="q_2">Java jest gorsza od C#?</string>
+    <string name="q_3">Java nie powinna istnieć?</string>
+    <string name="q_4">C# jest najlepszy?</string>
+    <string name="q_5">Java to fajny język?</string>
+
+    <string name="correct_answer">Dobrze</string>
+    <string name="incorrect_answer">Źle</string>
+
+    <string name="are_you_sure">Na pewno?</string>
+    <string name="button_show_answer">Pokaż odpowiedź</string>
+
+    <string name="answer_was_shown">Odpowiedź była wyświetlona</string>
+
+</resources>
